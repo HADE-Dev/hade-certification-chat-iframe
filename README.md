@@ -40,4 +40,4 @@
 
 ## Demo
 
-https://test-use-iframe.vercel.app/
+https://hade-dev.github.io/hade-certification-chat-iframe/
